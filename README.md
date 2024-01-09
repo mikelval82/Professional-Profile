@@ -4,7 +4,7 @@ Welcome to the repository containing my professional Portfolio and Curriculum Vi
 
 ## Portfolio
 
-You can view my live portfolio at [mikelval82.github.io/repository-name].
+You can view my live portfolio at [[mikelval82.github.io/Portfolio](https://mikelval82.github.io/Portfolio/)].
 
 Feel free to explore my work, projects, and contact information on the portfolio site.
 
