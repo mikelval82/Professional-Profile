@@ -1,0 +1,6 @@
+/.playwright-mcp/
+/tmp/
+# Local research extracts and review artifacts are not publication assets.
+/output/
+# Independent website checkout; its changes belong to the Portfolio repository.
+/Portfolio/

@@ -2,11 +2,11 @@
 
 Welcome to the repository containing my professional Portfolio and Curriculum Vitae (CV). This document provides a comprehensive overview of my academic background, professional experience, skills, and accomplishments.
 
-## Portfolio (Still under development)
+## Portfolio
 
-You can view my live portfolio at [[mikelval82.github.io/Portfolio](https://mikelval82.github.io/Portfolio/)].
+You can view my live portfolio at [mikelval82.github.io/Portfolio](https://mikelval82.github.io/Portfolio/).
 
-Feel free to explore my work, projects, and contact information on the portfolio site.
+The website source, build scripts and publishing instructions belong to the separate [Portfolio repository](https://github.com/mikelval82/Portfolio). This repository holds the supplied CV documents. A local `Portfolio/` checkout is independent and is not tracked here.
 
 ## CV Overview
 
@@ -23,7 +23,9 @@ In my CV, you will find detailed information about:
 
 You can view and download my CV in PDF format from this repository:
 
-- [Mikel Val Calvo CV - Download PDF](./CV_Mikel_Val_Calvo.pdf)
+- [Supplied CV - Source PDF](./Mikel_Val_Calvo_CV.pdf)
+
+This is the original supplied CV, preserved as a reference. Its location and assignment wording have not been updated. The corrected downloadable copy is maintained in the Portfolio repository and reflects Crevillente and the previous Inditex assignment. The earlier academic CV remains available as [CV_Mikel_Val_Calvo.pdf](./CV_Mikel_Val_Calvo.pdf).
 
 ## Contact
 
